@@ -1,0 +1,10 @@
+contractions
+pandas
+numpy
+streamlit
+contractions
+nltk
+beautifulsoup4
+scikit-learn
+joblib
+xgboost
